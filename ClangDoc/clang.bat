@@ -1,0 +1,1 @@
+clang++ -IC:\sdk\llvm\include -IC:\sdk\clang\include -D__STDC_LIMIT_MACROS -D__STDC_CONSTANT_MACROS test.cpp
